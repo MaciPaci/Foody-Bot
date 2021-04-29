@@ -9,3 +9,5 @@ Done:
 TODO:
 
 - [ ] Flask web service to manipulate the databse
+- [ ] Expanding the database
+- [ ] More database filter queries

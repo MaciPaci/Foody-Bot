@@ -1,0 +1,4 @@
+,name,recipe,meal,vege,fast,shopping list
+0,Scrambled eggs,Make eggs,"B, L",True,True,1 egg
+1,MEAT,Make meat,D,False,False,Some meat
+2,soup,Boil water. Make soup,DE,True,True,soup things
